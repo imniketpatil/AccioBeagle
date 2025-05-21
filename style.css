@@ -1,0 +1,62 @@
+body {
+  padding: 12px;
+  margin: 0;
+}
+
+.section1 {
+  border: 1px solid #000;
+  padding: 12px;
+
+  h1 {
+    margin-top: 0;
+    margin-bottom: 22px;
+    text-decoration: underline;
+  }
+
+  p {
+    margin-top: 0;
+    margin-bottom: 22px;
+  }
+
+  a {
+    text-decoration: none;
+  }
+}
+
+.section2 {
+  margin-top: 12px;
+
+  h1 {
+    margin-top: 0;
+    margin-bottom: 22px;
+    text-decoration: underline;
+  }
+
+  .dog-container {
+    margin-bottom: 12px;
+
+    img {
+      width: 300px;
+      height: 100%;
+    }
+  }
+
+  a {
+    text-decoration: none;
+  }
+}
+
+.section3 {
+  margin-top: 12px;
+
+  h1 {
+    margin-top: 0;
+    margin-bottom: 22px;
+    text-decoration: underline;
+  }
+
+  ol {
+    padding-left: 18px;
+    margin: 0;
+  }
+}
